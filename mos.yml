@@ -6,8 +6,8 @@ manifest_version: 2017-09-29
 sources:
   - src
 libs:
-  - location: https://github.com/mongoose-os-libs/rpc-common
-  - location: https://github.com/mongoose-os-libs/vfs-common
+  - location: https://github.com/shelly-homekit-mos/rpc-common
+  - location: https://github.com/shelly-homekit-mos/vfs-common
 tags:
   - rpc
   - filesystem
